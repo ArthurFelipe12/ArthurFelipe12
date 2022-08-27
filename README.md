@@ -1,9 +1,9 @@
 
 ### Olá! Eu sou o Arthur Felipe ^_^
  
-- #### 💻Curioso e apaixonado em relação à tecnologia.
-- #### 📚 Atualmente no primeiro período em análise e desenvolvimento de sistemas.
-- #### ⬇ Minhas redes sociais
+- 💻Curioso e apaixonado em relação à tecnologia.
+- 📚 Atualmente no primeiro período em análise e desenvolvimento de sistemas.
+- ⬇ Minhas redes sociais
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/4rthurfel1pe)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4rthurfeelipe)
