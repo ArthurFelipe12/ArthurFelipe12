@@ -26,4 +26,4 @@
 
 </div>
 
-
+![Snake animation](https://github.com/ArthurFelipe12/ArthurFelipe12/blob/output/github-contribution-grid-snake.svg)
