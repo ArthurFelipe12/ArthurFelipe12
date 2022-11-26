@@ -1,7 +1,6 @@
 
 ## Olá! Eu sou o Arthur Felipe ^_^
 
--  Graduando em Análise e Desenvolvimento de Sistemas
 - Minhas Redes Sociais 👇
 
 
